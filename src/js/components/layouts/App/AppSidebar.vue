@@ -59,7 +59,7 @@ export default {
   width: 100%;
   max-width: var(--sidebar-width);
   height: 100vh;
-  background-color: #1D1E24;
+  background-color: #3b3c3d;
   color: var(--white-main);
   padding: 20px 0;
   left: 0;
