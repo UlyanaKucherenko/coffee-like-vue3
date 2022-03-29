@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+:root {
+  // - - - - - FONTS - - - - - //
+  --OpenSans: 'Open Sans', sans-serif;
+
+  // - - - - - COLORS - - - - - //
+  --black-main: #0D092E;
+  --black-menu: #1D1E24;
+  --orange-dark-1: #E16A26;
+  --orange-dark: #EC7430;
+  --orange-main: #FF7D34;
+  --blue-main: #1E70BB;
+  --blue-light: #EAF5FF;
+  --green-main: #27AE60;
+  --green-light: #6DDD78;
+  --white-main: #FFFFFF;
+  --grey-dark: #525151;
+  --grey-main: #767586;
+  --grey-light: #F6F6F6;
+  --grey-light-1: #DDE4EB;
+  --grey-light-2: #ABAAB5;
+  --grey-lighter: #F2F2F3;
+  --red-main: #EB5757;
+
+  --main-box-shadow: 0 3px 10px 3px rgba(43, 72, 105, 0.11);
+
+  // - - - - - SIZES - - - - - //
+  --header-height: 60px;
+  --sidebar-width: 80px;
+  --scrollbar-width: 8px;
+}
+
+/* ---FONT SIZE--- */
+
